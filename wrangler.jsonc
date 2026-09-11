@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "learn-lab",
+  "name": "web-dev",
   "main": ".svelte-kit/cloudflare/_worker.js",
   "compatibility_date": "2026-09-09",
   "compatibility_flags": ["nodejs_compat"],
@@ -9,7 +9,7 @@
     {
       "binding": "DB",
       "database_name": "learn-lab",
-      "database_id": "00000000-0000-0000-0000-000000000000",
+      "database_id": "cb765442-2f9c-444e-ad38-846dd0b23a3a",
       "migrations_dir": "migrations",
     },
   ],
