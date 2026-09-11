@@ -1,0 +1,5 @@
+allowBuilds:
+  esbuild: false
+  workerd: false
+minimumReleaseAgeExclude:
+  - '@types/node@22.20.2'

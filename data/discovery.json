@@ -1,0 +1,1585 @@
+{
+  "discoveredAt": "2026-09-10T16:24:01.844Z",
+  "courses": [
+    {
+      "url": "https://web.dev/learn/html",
+      "title": "تعلم HTML",
+      "slug": "html",
+      "sourceOrder": 0,
+      "quizPages": [
+        "https://web.dev/learn/quizzes/html"
+      ],
+      "description": "This HTML course for web developers provides a solid overview for developers, from novice to expert level HTML.",
+      "lessons": [
+        {
+          "url": "https://web.dev/learn/html/welcome",
+          "title": "Welcome to Learn HTML!",
+          "id": "html/welcome",
+          "position": 0
+        },
+        {
+          "url": "https://web.dev/learn/html/overview",
+          "title": "Overview of HTML",
+          "id": "html/overview",
+          "position": 1
+        },
+        {
+          "url": "https://web.dev/learn/html/document-structure",
+          "title": "Document structure",
+          "id": "html/document-structure",
+          "position": 2
+        },
+        {
+          "url": "https://web.dev/learn/html/metadata",
+          "title": "Metadata",
+          "id": "html/metadata",
+          "position": 3
+        },
+        {
+          "url": "https://web.dev/learn/html/semantic-html",
+          "title": "Semantic HTML",
+          "id": "html/semantic-html",
+          "position": 4
+        },
+        {
+          "url": "https://web.dev/learn/html/headings-and-sections",
+          "title": "Headings and sections",
+          "id": "html/headings-and-sections",
+          "position": 5
+        },
+        {
+          "url": "https://web.dev/learn/html/attributes",
+          "title": "Attributes",
+          "id": "html/attributes",
+          "position": 6
+        },
+        {
+          "url": "https://web.dev/learn/html/text-basics",
+          "title": "Text basics",
+          "id": "html/text-basics",
+          "position": 7
+        },
+        {
+          "url": "https://web.dev/learn/html/links",
+          "title": "Links",
+          "id": "html/links",
+          "position": 8
+        },
+        {
+          "url": "https://web.dev/learn/html/lists",
+          "title": "Lists",
+          "id": "html/lists",
+          "position": 9
+        },
+        {
+          "url": "https://web.dev/learn/html/navigation",
+          "title": "Navigation",
+          "id": "html/navigation",
+          "position": 10
+        },
+        {
+          "url": "https://web.dev/learn/html/tables",
+          "title": "Tables",
+          "id": "html/tables",
+          "position": 11
+        },
+        {
+          "url": "https://web.dev/learn/html/forms",
+          "title": "Forms",
+          "id": "html/forms",
+          "position": 12
+        },
+        {
+          "url": "https://web.dev/learn/html/images",
+          "title": "Images",
+          "id": "html/images",
+          "position": 13
+        },
+        {
+          "url": "https://web.dev/learn/html/audio-video",
+          "title": "Audio and Video",
+          "id": "html/audio-video",
+          "position": 14
+        },
+        {
+          "url": "https://web.dev/learn/html/template",
+          "title": "Template, slot, and shadow",
+          "id": "html/template",
+          "position": 15
+        },
+        {
+          "url": "https://web.dev/learn/html/apis",
+          "title": "HTML APIs",
+          "id": "html/apis",
+          "position": 16
+        },
+        {
+          "url": "https://web.dev/learn/html/focus",
+          "title": "Focus",
+          "id": "html/focus",
+          "position": 17
+        },
+        {
+          "url": "https://web.dev/learn/html/inline-text",
+          "title": "Other inline text elements",
+          "id": "html/inline-text",
+          "position": 18
+        },
+        {
+          "url": "https://web.dev/learn/html/details",
+          "title": "Details and summary",
+          "id": "html/details",
+          "position": 19
+        },
+        {
+          "url": "https://web.dev/learn/html/dialog",
+          "title": "Dialog",
+          "id": "html/dialog",
+          "position": 20
+        },
+        {
+          "url": "https://web.dev/learn/html/conclusion",
+          "title": "Conclusion and next steps",
+          "id": "html/conclusion",
+          "position": 21
+        }
+      ],
+      "special": []
+    },
+    {
+      "url": "https://web.dev/learn/css",
+      "title": "تعلُّم لغة CSS",
+      "slug": "css",
+      "sourceOrder": 1,
+      "quizPages": [
+        "https://web.dev/learn/css/quiz"
+      ],
+      "description": "An evergreen CSS course and reference to level up your web styling expertise.",
+      "lessons": [
+        {
+          "url": "https://web.dev/learn/css/welcome",
+          "title": "Welcome to Learn CSS!",
+          "id": "css/welcome",
+          "position": 0
+        },
+        {
+          "url": "https://web.dev/learn/css/box-model",
+          "title": "Box Model",
+          "id": "css/box-model",
+          "position": 1
+        },
+        {
+          "url": "https://web.dev/learn/css/selectors",
+          "title": "Selectors",
+          "id": "css/selectors",
+          "position": 2
+        },
+        {
+          "url": "https://web.dev/learn/css/nesting",
+          "title": "Nesting",
+          "id": "css/nesting",
+          "position": 3
+        },
+        {
+          "url": "https://web.dev/learn/css/the-cascade",
+          "title": "The cascade",
+          "id": "css/the-cascade",
+          "position": 4
+        },
+        {
+          "url": "https://web.dev/learn/css/specificity",
+          "title": "Specificity",
+          "id": "css/specificity",
+          "position": 5
+        },
+        {
+          "url": "https://web.dev/learn/css/inheritance",
+          "title": "Inheritance",
+          "id": "css/inheritance",
+          "position": 6
+        },
+        {
+          "url": "https://web.dev/learn/css/color",
+          "title": "Color",
+          "id": "css/color",
+          "position": 7
+        },
+        {
+          "url": "https://web.dev/learn/css/sizing",
+          "title": "Sizing Units",
+          "id": "css/sizing",
+          "position": 8
+        },
+        {
+          "url": "https://web.dev/learn/css/layout",
+          "title": "Layout",
+          "id": "css/layout",
+          "position": 9
+        },
+        {
+          "url": "https://web.dev/learn/css/flexbox",
+          "title": "Flexbox",
+          "id": "css/flexbox",
+          "position": 10
+        },
+        {
+          "url": "https://web.dev/learn/css/grid",
+          "title": "Grid",
+          "id": "css/grid",
+          "position": 11
+        },
+        {
+          "url": "https://web.dev/learn/css/logical-properties",
+          "title": "Logical Properties",
+          "id": "css/logical-properties",
+          "position": 12
+        },
+        {
+          "url": "https://web.dev/learn/css/custom-properties",
+          "title": "Custom Properties",
+          "id": "css/custom-properties",
+          "position": 13
+        },
+        {
+          "url": "https://web.dev/learn/css/spacing",
+          "title": "Spacing",
+          "id": "css/spacing",
+          "position": 14
+        },
+        {
+          "url": "https://web.dev/learn/css/pseudo-elements",
+          "title": "Pseudo-elements",
+          "id": "css/pseudo-elements",
+          "position": 15
+        },
+        {
+          "url": "https://web.dev/learn/css/pseudo-classes",
+          "title": "Pseudo-classes",
+          "id": "css/pseudo-classes",
+          "position": 16
+        },
+        {
+          "url": "https://web.dev/learn/css/borders",
+          "title": "Borders",
+          "id": "css/borders",
+          "position": 17
+        },
+        {
+          "url": "https://web.dev/learn/css/shadows",
+          "title": "Shadows",
+          "id": "css/shadows",
+          "position": 18
+        },
+        {
+          "url": "https://web.dev/learn/css/focus",
+          "title": "Focus",
+          "id": "css/focus",
+          "position": 19
+        },
+        {
+          "url": "https://web.dev/learn/css/cursors-and-pointers",
+          "title": "Cursors and pointers",
+          "id": "css/cursors-and-pointers",
+          "position": 20
+        },
+        {
+          "url": "https://web.dev/learn/css/z-index",
+          "title": "Z-index and stacking contexts",
+          "id": "css/z-index",
+          "position": 21
+        },
+        {
+          "url": "https://web.dev/learn/css/anchor-positioning",
+          "title": "Anchor positioning",
+          "id": "css/anchor-positioning",
+          "position": 22
+        },
+        {
+          "url": "https://web.dev/learn/css/popover-and-dialog",
+          "title": "Popover and dialog",
+          "id": "css/popover-and-dialog",
+          "position": 23
+        },
+        {
+          "url": "https://web.dev/learn/css/functions",
+          "title": "Functions",
+          "id": "css/functions",
+          "position": 24
+        },
+        {
+          "url": "https://web.dev/learn/css/paths-shapes-clipping-masking",
+          "title": "Paths, shapes, clipping, and masking",
+          "id": "css/paths-shapes-clipping-masking",
+          "position": 25
+        },
+        {
+          "url": "https://web.dev/learn/css/gradients",
+          "title": "Gradients",
+          "id": "css/gradients",
+          "position": 26
+        },
+        {
+          "url": "https://web.dev/learn/css/animations",
+          "title": "Animations",
+          "id": "css/animations",
+          "position": 27
+        },
+        {
+          "url": "https://web.dev/learn/css/filters",
+          "title": "Filters",
+          "id": "css/filters",
+          "position": 28
+        },
+        {
+          "url": "https://web.dev/learn/css/blend-modes",
+          "title": "Blend Modes",
+          "id": "css/blend-modes",
+          "position": 29
+        },
+        {
+          "url": "https://web.dev/learn/css/lists",
+          "title": "Lists",
+          "id": "css/lists",
+          "position": 30
+        },
+        {
+          "url": "https://web.dev/learn/css/counters",
+          "title": "Counters",
+          "id": "css/counters",
+          "position": 31
+        },
+        {
+          "url": "https://web.dev/learn/css/transitions",
+          "title": "Transitions",
+          "id": "css/transitions",
+          "position": 32
+        },
+        {
+          "url": "https://web.dev/learn/css/view-transitions-spas",
+          "title": "View Transitions for SPAs",
+          "id": "css/view-transitions-spas",
+          "position": 33
+        },
+        {
+          "url": "https://web.dev/learn/css/overflow",
+          "title": "Overflow",
+          "id": "css/overflow",
+          "position": 34
+        },
+        {
+          "url": "https://web.dev/learn/css/backgrounds",
+          "title": "Backgrounds",
+          "id": "css/backgrounds",
+          "position": 35
+        },
+        {
+          "url": "https://web.dev/learn/css/typography",
+          "title": "Text and typography",
+          "id": "css/typography",
+          "position": 36
+        },
+        {
+          "url": "https://web.dev/learn/css/container-queries",
+          "title": "Container queries",
+          "id": "css/container-queries",
+          "position": 37
+        },
+        {
+          "url": "https://web.dev/learn/css/conclusion",
+          "title": "Conclusion and next steps",
+          "id": "css/conclusion",
+          "position": 38
+        },
+        {
+          "url": "https://web.dev/learn/css/quiz",
+          "title": "CSS quiz",
+          "id": "css/quiz",
+          "position": 39
+        }
+      ],
+      "special": []
+    },
+    {
+      "url": "https://web.dev/learn/javascript",
+      "title": "التعرّف على JavaScript",
+      "slug": "javascript",
+      "sourceOrder": 2,
+      "quizPages": [
+        "https://web.dev/learn/quizzes/javascript"
+      ],
+      "description": "An in-depth course on the basics of JavaScript.",
+      "lessons": [
+        {
+          "url": "https://web.dev/learn/javascript/welcome",
+          "title": "Welcome to Learn JavaScript!",
+          "id": "javascript/welcome",
+          "position": 0
+        },
+        {
+          "url": "https://web.dev/learn/javascript/introduction",
+          "title": "Introduction to JavaScript",
+          "id": "javascript/introduction",
+          "position": 1
+        },
+        {
+          "url": "https://web.dev/learn/javascript/data-types",
+          "title": "Data types and structures",
+          "id": "javascript/data-types",
+          "position": 2
+        },
+        {
+          "url": "https://web.dev/learn/javascript/data-types/number",
+          "title": "Numbers",
+          "id": "javascript/data-types/number",
+          "position": 3
+        },
+        {
+          "url": "https://web.dev/learn/javascript/data-types/string",
+          "title": "Strings",
+          "id": "javascript/data-types/string",
+          "position": 4
+        },
+        {
+          "url": "https://web.dev/learn/javascript/data-types/boolean",
+          "title": "Booleans",
+          "id": "javascript/data-types/boolean",
+          "position": 5
+        },
+        {
+          "url": "https://web.dev/learn/javascript/data-types/null-undefined",
+          "title": "Null and undefined values",
+          "id": "javascript/data-types/null-undefined",
+          "position": 6
+        },
+        {
+          "url": "https://web.dev/learn/javascript/data-types/bigint",
+          "title": "BigInt",
+          "id": "javascript/data-types/bigint",
+          "position": 7
+        },
+        {
+          "url": "https://web.dev/learn/javascript/data-types/symbol",
+          "title": "Symbols",
+          "id": "javascript/data-types/symbol",
+          "position": 8
+        },
+        {
+          "url": "https://web.dev/learn/javascript/data-types/variable",
+          "title": "Variables",
+          "id": "javascript/data-types/variable",
+          "position": 9
+        },
+        {
+          "url": "https://web.dev/learn/javascript/comparison",
+          "title": "Comparison operators",
+          "id": "javascript/comparison",
+          "position": 10
+        },
+        {
+          "url": "https://web.dev/learn/javascript/control-flow",
+          "title": "Control flow",
+          "id": "javascript/control-flow",
+          "position": 11
+        },
+        {
+          "url": "https://web.dev/learn/javascript/functions",
+          "title": "Introduction to functions",
+          "id": "javascript/functions",
+          "position": 12
+        },
+        {
+          "url": "https://web.dev/learn/javascript/functions/function-expressions",
+          "title": "Function expressions",
+          "id": "javascript/functions/function-expressions",
+          "position": 13
+        },
+        {
+          "url": "https://web.dev/learn/javascript/functions/new",
+          "title": "The \"new\" keyword",
+          "id": "javascript/functions/new",
+          "position": 14
+        },
+        {
+          "url": "https://web.dev/learn/javascript/functions/return",
+          "title": "The \"return\" keyword",
+          "id": "javascript/functions/return",
+          "position": 15
+        },
+        {
+          "url": "https://web.dev/learn/javascript/functions/this",
+          "title": "The \"this\" keyword",
+          "id": "javascript/functions/this",
+          "position": 16
+        },
+        {
+          "url": "https://web.dev/learn/javascript/objects",
+          "title": "Introduction to objects",
+          "id": "javascript/objects",
+          "position": 17
+        },
+        {
+          "url": "https://web.dev/learn/javascript/objects/property-accessors",
+          "title": "Property accessors",
+          "id": "javascript/objects/property-accessors",
+          "position": 18
+        },
+        {
+          "url": "https://web.dev/learn/javascript/objects/prototypal-inheritance",
+          "title": "Prototypal inheritance",
+          "id": "javascript/objects/prototypal-inheritance",
+          "position": 19
+        },
+        {
+          "url": "https://web.dev/learn/javascript/objects/property-descriptors",
+          "title": "Property descriptors",
+          "id": "javascript/objects/property-descriptors",
+          "position": 20
+        },
+        {
+          "url": "https://web.dev/learn/javascript/collections/indexed",
+          "title": "Indexed collections",
+          "id": "javascript/collections/indexed",
+          "position": 21
+        },
+        {
+          "url": "https://web.dev/learn/javascript/collections/keyed",
+          "title": "Keyed collections",
+          "id": "javascript/collections/keyed",
+          "position": 22
+        },
+        {
+          "url": "https://web.dev/learn/javascript/classes",
+          "title": "Introduction to classes",
+          "id": "javascript/classes",
+          "position": 23
+        },
+        {
+          "url": "https://web.dev/learn/javascript/classes/extends",
+          "title": "Extend classes",
+          "id": "javascript/classes/extends",
+          "position": 24
+        },
+        {
+          "url": "https://web.dev/learn/javascript/classes/class-fields",
+          "title": "Class fields and methods",
+          "id": "javascript/classes/class-fields",
+          "position": 25
+        },
+        {
+          "url": "https://web.dev/learn/javascript/classes/static-initialization-blocks",
+          "title": "Static initialization blocks",
+          "id": "javascript/classes/static-initialization-blocks",
+          "position": 26
+        },
+        {
+          "url": "https://web.dev/learn/javascript/appendix",
+          "title": "Appendix",
+          "id": "javascript/appendix",
+          "position": 27
+        }
+      ],
+      "special": []
+    },
+    {
+      "url": "https://web.dev/learn/performance",
+      "title": "معرفة الأداء",
+      "slug": "performance",
+      "sourceOrder": 3,
+      "quizPages": [
+        "https://web.dev/learn/quizzes/performance"
+      ],
+      "description": "This course is designed for those new to web performance, a vital aspect of the user experience. It covers key web performance concepts and techniques for improving performance.",
+      "lessons": [
+        {
+          "url": "https://web.dev/learn/performance/welcome",
+          "title": "Welcome to Learn Performance!",
+          "id": "performance/welcome",
+          "position": 0
+        },
+        {
+          "url": "https://web.dev/learn/performance/why-speed-matters",
+          "title": "Why speed matters",
+          "id": "performance/why-speed-matters",
+          "position": 1
+        },
+        {
+          "url": "https://web.dev/learn/performance/general-html-performance",
+          "title": "General HTML performance considerations",
+          "id": "performance/general-html-performance",
+          "position": 2
+        },
+        {
+          "url": "https://web.dev/learn/performance/understanding-the-critical-path",
+          "title": "Understanding the critical path",
+          "id": "performance/understanding-the-critical-path",
+          "position": 3
+        },
+        {
+          "url": "https://web.dev/learn/performance/optimize-resource-loading",
+          "title": "Optimize resource loading",
+          "id": "performance/optimize-resource-loading",
+          "position": 4
+        },
+        {
+          "url": "https://web.dev/learn/performance/resource-hints",
+          "title": "Assist the browser with resource hints",
+          "id": "performance/resource-hints",
+          "position": 5
+        },
+        {
+          "url": "https://web.dev/learn/performance/image-performance",
+          "title": "Image performance",
+          "id": "performance/image-performance",
+          "position": 6
+        },
+        {
+          "url": "https://web.dev/learn/performance/video-performance",
+          "title": "Video performance",
+          "id": "performance/video-performance",
+          "position": 7
+        },
+        {
+          "url": "https://web.dev/learn/performance/optimize-web-fonts",
+          "title": "Optimize web fonts",
+          "id": "performance/optimize-web-fonts",
+          "position": 8
+        },
+        {
+          "url": "https://web.dev/learn/performance/code-split-javascript",
+          "title": "Code-split JavaScript",
+          "id": "performance/code-split-javascript",
+          "position": 9
+        },
+        {
+          "url": "https://web.dev/learn/performance/lazy-load-images-and-iframe-elements",
+          "title": "Lazy load images and iframe elements",
+          "id": "performance/lazy-load-images-and-iframe-elements",
+          "position": 10
+        },
+        {
+          "url": "https://web.dev/learn/performance/prefetching-prerendering-precaching",
+          "title": "Prefetching, prerendering, and service worker precaching",
+          "id": "performance/prefetching-prerendering-precaching",
+          "position": 11
+        },
+        {
+          "url": "https://web.dev/learn/performance/web-worker-overview",
+          "title": "An overview of web workers",
+          "id": "performance/web-worker-overview",
+          "position": 12
+        },
+        {
+          "url": "https://web.dev/learn/performance/web-worker-demo",
+          "title": "A concrete web worker use case",
+          "id": "performance/web-worker-demo",
+          "position": 13
+        }
+      ],
+      "special": []
+    },
+    {
+      "url": "https://web.dev/learn/privacy",
+      "title": "تعلم الخصوصية",
+      "slug": "privacy",
+      "sourceOrder": 4,
+      "quizPages": [
+        "https://web.dev/learn/quizzes/privacy"
+      ],
+      "description": "A course to help you build more privacy-preserving websites.",
+      "lessons": [
+        {
+          "url": "https://web.dev/learn/privacy/welcome",
+          "title": "Welcome to Learn Privacy!",
+          "id": "privacy/welcome",
+          "position": 0
+        },
+        {
+          "url": "https://web.dev/learn/privacy/data",
+          "title": "Use just the data you need",
+          "id": "privacy/data",
+          "position": 1
+        },
+        {
+          "url": "https://web.dev/learn/privacy/third-parties",
+          "title": "Third parties",
+          "id": "privacy/third-parties",
+          "position": 2
+        },
+        {
+          "url": "https://web.dev/learn/privacy/fingerprinting",
+          "title": "Fingerprinting",
+          "id": "privacy/fingerprinting",
+          "position": 3
+        },
+        {
+          "url": "https://web.dev/learn/privacy/encryption",
+          "title": "Encryption",
+          "id": "privacy/encryption",
+          "position": 4
+        },
+        {
+          "url": "https://web.dev/learn/privacy/best-practices",
+          "title": "Best practices",
+          "id": "privacy/best-practices",
+          "position": 5
+        }
+      ],
+      "special": []
+    },
+    {
+      "url": "https://web.dev/learn/accessibility",
+      "title": "التعرُّف على تسهيل الاستخدام",
+      "slug": "accessibility",
+      "sourceOrder": 5,
+      "quizPages": [
+        "https://web.dev/learn/quizzes/accessibility"
+      ],
+      "description": "An evergreen accessibility course and reference to level up your web development.",
+      "lessons": [
+        {
+          "url": "https://web.dev/learn/accessibility/welcome",
+          "title": "Welcome to Learn Accessibility!",
+          "id": "accessibility/welcome",
+          "position": 0
+        },
+        {
+          "url": "https://web.dev/learn/accessibility/why",
+          "title": "What is digital accessibility, and why does it matter?",
+          "id": "accessibility/why",
+          "position": 1
+        },
+        {
+          "url": "https://web.dev/learn/accessibility/measure",
+          "title": "How is digital accessibility measured?",
+          "id": "accessibility/measure",
+          "position": 2
+        },
+        {
+          "url": "https://web.dev/learn/accessibility/aria-html",
+          "title": "ARIA and HTML",
+          "id": "accessibility/aria-html",
+          "position": 3
+        },
+        {
+          "url": "https://web.dev/learn/accessibility/structure",
+          "title": "Content structure",
+          "id": "accessibility/structure",
+          "position": 4
+        },
+        {
+          "url": "https://web.dev/learn/accessibility/more-html",
+          "title": "The Document",
+          "id": "accessibility/more-html",
+          "position": 5
+        },
+        {
+          "url": "https://web.dev/learn/accessibility/focus",
+          "title": "Keyboard focus",
+          "id": "accessibility/focus",
+          "position": 6
+        },
+        {
+          "url": "https://web.dev/learn/accessibility/javascript",
+          "title": "JavaScript",
+          "id": "accessibility/javascript",
+          "position": 7
+        },
+        {
+          "url": "https://web.dev/learn/accessibility/images",
+          "title": "Images",
+          "id": "accessibility/images",
+          "position": 8
+        },
+        {
+          "url": "https://web.dev/learn/accessibility/color-contrast",
+          "title": "Color and contrast",
+          "id": "accessibility/color-contrast",
+          "position": 9
+        },
+        {
+          "url": "https://web.dev/learn/accessibility/motion",
+          "title": "Animation and motion",
+          "id": "accessibility/motion",
+          "position": 10
+        },
+        {
+          "url": "https://web.dev/learn/accessibility/typography",
+          "title": "Typography",
+          "id": "accessibility/typography",
+          "position": 11
+        },
+        {
+          "url": "https://web.dev/learn/accessibility/video-audio",
+          "title": "Video and audio",
+          "id": "accessibility/video-audio",
+          "position": 12
+        },
+        {
+          "url": "https://web.dev/learn/accessibility/forms",
+          "title": "Forms",
+          "id": "accessibility/forms",
+          "position": 13
+        },
+        {
+          "url": "https://web.dev/learn/accessibility/patterns",
+          "title": "Patterns, components, and design systems",
+          "id": "accessibility/patterns",
+          "position": 14
+        },
+        {
+          "url": "https://web.dev/learn/accessibility/design-ux",
+          "title": "Design and user experience",
+          "id": "accessibility/design-ux",
+          "position": 15
+        },
+        {
+          "url": "https://web.dev/learn/accessibility/test-automated",
+          "title": "Automated accessibility testing",
+          "id": "accessibility/test-automated",
+          "position": 16
+        },
+        {
+          "url": "https://web.dev/learn/accessibility/test-manual",
+          "title": "Manual accessibility testing",
+          "id": "accessibility/test-manual",
+          "position": 17
+        },
+        {
+          "url": "https://web.dev/learn/accessibility/test-assistive-technology",
+          "title": "Assistive Technology testing",
+          "id": "accessibility/test-assistive-technology",
+          "position": 18
+        },
+        {
+          "url": "https://web.dev/learn/accessibility/conclusion",
+          "title": "Conclusion and next steps",
+          "id": "accessibility/conclusion",
+          "position": 19
+        },
+        {
+          "url": "https://web.dev/learn/accessibility/glossary",
+          "title": "Glossary",
+          "id": "accessibility/glossary",
+          "position": 20
+        }
+      ],
+      "special": []
+    },
+    {
+      "url": "https://web.dev/learn/images",
+      "title": "الاطّلاع على الصور",
+      "slug": "images",
+      "sourceOrder": 6,
+      "quizPages": [
+        "https://web.dev/learn/quizzes/images"
+      ],
+      "description": "An in-depth course on images for the web.",
+      "lessons": [
+        {
+          "url": "https://web.dev/learn/images/welcome",
+          "title": "Welcome to Learn Images!",
+          "id": "images/welcome",
+          "position": 0
+        },
+        {
+          "url": "https://web.dev/learn/images/history",
+          "title": "A brief history of images on the web",
+          "id": "images/history",
+          "position": 1
+        },
+        {
+          "url": "https://web.dev/learn/images/performance-issues",
+          "title": "Key performance issues",
+          "id": "images/performance-issues",
+          "position": 2
+        },
+        {
+          "url": "https://web.dev/learn/images/vector-images",
+          "title": "Vector images",
+          "id": "images/vector-images",
+          "position": 3
+        },
+        {
+          "url": "https://web.dev/learn/images/raster-images",
+          "title": "Raster images",
+          "id": "images/raster-images",
+          "position": 4
+        },
+        {
+          "url": "https://web.dev/learn/images/gif",
+          "title": "Image formats: GIF",
+          "id": "images/gif",
+          "position": 5
+        },
+        {
+          "url": "https://web.dev/learn/images/png",
+          "title": "Image formats: PNG",
+          "id": "images/png",
+          "position": 6
+        },
+        {
+          "url": "https://web.dev/learn/images/jpeg",
+          "title": "Image formats: JPEG",
+          "id": "images/jpeg",
+          "position": 7
+        },
+        {
+          "url": "https://web.dev/learn/images/webp",
+          "title": "Image formats: WebP",
+          "id": "images/webp",
+          "position": 8
+        },
+        {
+          "url": "https://web.dev/learn/images/avif",
+          "title": "Image formats: AVIF",
+          "id": "images/avif",
+          "position": 9
+        },
+        {
+          "url": "https://web.dev/learn/images/responsive-images",
+          "title": "Responsive images",
+          "id": "images/responsive-images",
+          "position": 10
+        },
+        {
+          "url": "https://web.dev/learn/images/descriptive",
+          "title": "Descriptive syntaxes",
+          "id": "images/descriptive",
+          "position": 11
+        },
+        {
+          "url": "https://web.dev/learn/images/prescriptive",
+          "title": "Prescriptive syntaxes",
+          "id": "images/prescriptive",
+          "position": 12
+        },
+        {
+          "url": "https://web.dev/learn/images/automating",
+          "title": "Automating compression and encoding",
+          "id": "images/automating",
+          "position": 13
+        },
+        {
+          "url": "https://web.dev/learn/images/cms",
+          "title": "Site Generators, frameworks, and CMSs",
+          "id": "images/cms",
+          "position": 14
+        },
+        {
+          "url": "https://web.dev/learn/images/cdn",
+          "title": "Image content delivery networks",
+          "id": "images/cdn",
+          "position": 15
+        },
+        {
+          "url": "https://web.dev/learn/images/conclusion",
+          "title": "Conclusion",
+          "id": "images/conclusion",
+          "position": 16
+        }
+      ],
+      "special": []
+    },
+    {
+      "url": "https://web.dev/learn/design",
+      "title": "تعلم التصميم",
+      "slug": "design",
+      "sourceOrder": 7,
+      "quizPages": [
+        "https://web.dev/learn/quizzes/design"
+      ],
+      "description": "A course exploring all aspects of responsive design. Learn how to make sites that look great and work well for everyone.",
+      "lessons": [
+        {
+          "url": "https://web.dev/learn/design/welcome",
+          "title": "Welcome to Learn Responsive Design!",
+          "id": "design/welcome",
+          "position": 0
+        },
+        {
+          "url": "https://web.dev/learn/design/intro",
+          "title": "Introduction",
+          "id": "design/intro",
+          "position": 1
+        },
+        {
+          "url": "https://web.dev/learn/design/media-queries",
+          "title": "Media queries",
+          "id": "design/media-queries",
+          "position": 2
+        },
+        {
+          "url": "https://web.dev/learn/design/internationalization",
+          "title": "Internationalization",
+          "id": "design/internationalization",
+          "position": 3
+        },
+        {
+          "url": "https://web.dev/learn/design/macro-layouts",
+          "title": "Macro layouts",
+          "id": "design/macro-layouts",
+          "position": 4
+        },
+        {
+          "url": "https://web.dev/learn/design/micro-layouts",
+          "title": "Micro layouts",
+          "id": "design/micro-layouts",
+          "position": 5
+        },
+        {
+          "url": "https://web.dev/learn/design/typography",
+          "title": "Typography",
+          "id": "design/typography",
+          "position": 6
+        },
+        {
+          "url": "https://web.dev/learn/design/responsive-images",
+          "title": "Responsive images",
+          "id": "design/responsive-images",
+          "position": 7
+        },
+        {
+          "url": "https://web.dev/learn/design/picture-element",
+          "title": "The picture element",
+          "id": "design/picture-element",
+          "position": 8
+        },
+        {
+          "url": "https://web.dev/learn/design/icons",
+          "title": "Icons",
+          "id": "design/icons",
+          "position": 9
+        },
+        {
+          "url": "https://web.dev/learn/design/theming",
+          "title": "Theming",
+          "id": "design/theming",
+          "position": 10
+        },
+        {
+          "url": "https://web.dev/learn/design/accessibility",
+          "title": "Accessibility",
+          "id": "design/accessibility",
+          "position": 11
+        },
+        {
+          "url": "https://web.dev/learn/design/interaction",
+          "title": "Interaction",
+          "id": "design/interaction",
+          "position": 12
+        },
+        {
+          "url": "https://web.dev/learn/design/ui-patterns",
+          "title": "User interface patterns",
+          "id": "design/ui-patterns",
+          "position": 13
+        },
+        {
+          "url": "https://web.dev/learn/design/media-features",
+          "title": "Media features",
+          "id": "design/media-features",
+          "position": 14
+        },
+        {
+          "url": "https://web.dev/learn/design/screen-configurations",
+          "title": "Screen configurations",
+          "id": "design/screen-configurations",
+          "position": 15
+        },
+        {
+          "url": "https://web.dev/learn/design/conclusion",
+          "title": "Conclusion and next steps",
+          "id": "design/conclusion",
+          "position": 16
+        }
+      ],
+      "special": []
+    },
+    {
+      "url": "https://web.dev/learn/forms",
+      "title": "نماذج التعلُّم",
+      "slug": "forms",
+      "sourceOrder": 8,
+      "quizPages": [
+        "https://web.dev/learn/quizzes/forms"
+      ],
+      "description": "A course about HTML forms to help you improve your web developer expertise.",
+      "lessons": [
+        {
+          "url": "https://web.dev/learn/forms/welcome",
+          "title": "Welcome to Learn Forms!",
+          "id": "forms/welcome",
+          "position": 0
+        },
+        {
+          "url": "https://web.dev/learn/forms/form-element",
+          "title": "Use forms to get data from users",
+          "id": "forms/form-element",
+          "position": 1
+        },
+        {
+          "url": "https://web.dev/learn/forms/form-fields",
+          "title": "Help users enter data in forms",
+          "id": "forms/form-fields",
+          "position": 2
+        },
+        {
+          "url": "https://web.dev/learn/forms/auto",
+          "title": "Help users avoid re-entering data in forms",
+          "id": "forms/auto",
+          "position": 3
+        },
+        {
+          "url": "https://web.dev/learn/forms/validation",
+          "title": "Help users enter the right data in forms",
+          "id": "forms/validation",
+          "position": 4
+        },
+        {
+          "url": "https://web.dev/learn/forms/testing",
+          "title": "Test your forms",
+          "id": "forms/testing",
+          "position": 5
+        },
+        {
+          "url": "https://web.dev/learn/forms/design-basics",
+          "title": "Design basics",
+          "id": "forms/design-basics",
+          "position": 6
+        },
+        {
+          "url": "https://web.dev/learn/forms/accessibility",
+          "title": "Accessibility",
+          "id": "forms/accessibility",
+          "position": 7
+        },
+        {
+          "url": "https://web.dev/learn/forms/internationalization",
+          "title": "Internationalization and localization",
+          "id": "forms/internationalization",
+          "position": 8
+        },
+        {
+          "url": "https://web.dev/learn/forms/security-privacy",
+          "title": "Security and privacy",
+          "id": "forms/security-privacy",
+          "position": 9
+        },
+        {
+          "url": "https://web.dev/learn/forms/autofill",
+          "title": "Autofill",
+          "id": "forms/autofill",
+          "position": 10
+        },
+        {
+          "url": "https://web.dev/learn/forms/usability-testing",
+          "title": "How to test forms for usability",
+          "id": "forms/usability-testing",
+          "position": 11
+        },
+        {
+          "url": "https://web.dev/learn/forms/cross-platform-testing",
+          "title": "Test forms across devices and platforms",
+          "id": "forms/cross-platform-testing",
+          "position": 12
+        },
+        {
+          "url": "https://web.dev/learn/forms/data",
+          "title": "Gathering data",
+          "id": "forms/data",
+          "position": 13
+        },
+        {
+          "url": "https://web.dev/learn/forms/form",
+          "title": "The form element in depth",
+          "id": "forms/form",
+          "position": 14
+        },
+        {
+          "url": "https://web.dev/learn/forms/fields",
+          "title": "Form fields in depth",
+          "id": "forms/fields",
+          "position": 15
+        },
+        {
+          "url": "https://web.dev/learn/forms/attributes",
+          "title": "Form attributes in depth",
+          "id": "forms/attributes",
+          "position": 16
+        },
+        {
+          "url": "https://web.dev/learn/forms/styling",
+          "title": "Styling forms",
+          "id": "forms/styling",
+          "position": 17
+        },
+        {
+          "url": "https://web.dev/learn/forms/styling-form-controls",
+          "title": "Styling form controls",
+          "id": "forms/styling-form-controls",
+          "position": 18
+        },
+        {
+          "url": "https://web.dev/learn/forms/javascript",
+          "title": "JavaScript",
+          "id": "forms/javascript",
+          "position": 19
+        },
+        {
+          "url": "https://web.dev/learn/forms/identity",
+          "title": "Identity",
+          "id": "forms/identity",
+          "position": 20
+        },
+        {
+          "url": "https://web.dev/learn/forms/payment",
+          "title": "Payment forms",
+          "id": "forms/payment",
+          "position": 21
+        },
+        {
+          "url": "https://web.dev/learn/forms/address",
+          "title": "Address forms",
+          "id": "forms/address",
+          "position": 22
+        },
+        {
+          "url": "https://web.dev/learn/forms/conclusion",
+          "title": "Conclusion and next steps",
+          "id": "forms/conclusion",
+          "position": 23
+        }
+      ],
+      "special": []
+    },
+    {
+      "url": "https://web.dev/learn/pwa",
+      "title": "تعلُّم PWA",
+      "slug": "pwa",
+      "sourceOrder": 9,
+      "quizPages": [
+        "https://web.dev/learn/quizzes/pwa"
+      ],
+      "description": "A course that breaks down every aspect of modern progressive web app development.",
+      "lessons": [
+        {
+          "url": "https://web.dev/learn/pwa/welcome",
+          "title": "Welcome to Learn Progressive Web Apps!",
+          "id": "pwa/welcome",
+          "position": 0
+        },
+        {
+          "url": "https://web.dev/learn/pwa/progressive-web-apps",
+          "title": "Progressive Web Apps",
+          "id": "pwa/progressive-web-apps",
+          "position": 1
+        },
+        {
+          "url": "https://web.dev/learn/pwa/getting-started",
+          "title": "Getting started",
+          "id": "pwa/getting-started",
+          "position": 2
+        },
+        {
+          "url": "https://web.dev/learn/pwa/foundations",
+          "title": "Foundations",
+          "id": "pwa/foundations",
+          "position": 3
+        },
+        {
+          "url": "https://web.dev/learn/pwa/app-design",
+          "title": "App design",
+          "id": "pwa/app-design",
+          "position": 4
+        },
+        {
+          "url": "https://web.dev/learn/pwa/assets-and-data",
+          "title": "Assets and data",
+          "id": "pwa/assets-and-data",
+          "position": 5
+        },
+        {
+          "url": "https://web.dev/learn/pwa/service-workers",
+          "title": "Service workers",
+          "id": "pwa/service-workers",
+          "position": 6
+        },
+        {
+          "url": "https://web.dev/learn/pwa/caching",
+          "title": "Caching",
+          "id": "pwa/caching",
+          "position": 7
+        },
+        {
+          "url": "https://web.dev/learn/pwa/serving",
+          "title": "Serving",
+          "id": "pwa/serving",
+          "position": 8
+        },
+        {
+          "url": "https://web.dev/learn/pwa/workbox",
+          "title": "Workbox",
+          "id": "pwa/workbox",
+          "position": 9
+        },
+        {
+          "url": "https://web.dev/learn/pwa/offline-data",
+          "title": "Offline data",
+          "id": "pwa/offline-data",
+          "position": 10
+        },
+        {
+          "url": "https://web.dev/learn/pwa/installation",
+          "title": "Installation",
+          "id": "pwa/installation",
+          "position": 11
+        },
+        {
+          "url": "https://web.dev/learn/pwa/web-app-manifest",
+          "title": "Web app manifest",
+          "id": "pwa/web-app-manifest",
+          "position": 12
+        },
+        {
+          "url": "https://web.dev/learn/pwa/installation-prompt",
+          "title": "Installation prompt",
+          "id": "pwa/installation-prompt",
+          "position": 13
+        },
+        {
+          "url": "https://web.dev/learn/pwa/update",
+          "title": "Update",
+          "id": "pwa/update",
+          "position": 14
+        },
+        {
+          "url": "https://web.dev/learn/pwa/enhancements",
+          "title": "Enhancements",
+          "id": "pwa/enhancements",
+          "position": 15
+        },
+        {
+          "url": "https://web.dev/learn/pwa/detection",
+          "title": "Detection",
+          "id": "pwa/detection",
+          "position": 16
+        },
+        {
+          "url": "https://web.dev/learn/pwa/os-integration",
+          "title": "OS Integration",
+          "id": "pwa/os-integration",
+          "position": 17
+        },
+        {
+          "url": "https://web.dev/learn/pwa/windows",
+          "title": "Window management",
+          "id": "pwa/windows",
+          "position": 18
+        },
+        {
+          "url": "https://web.dev/learn/pwa/experimental",
+          "title": "Experimental features",
+          "id": "pwa/experimental",
+          "position": 19
+        },
+        {
+          "url": "https://web.dev/learn/pwa/tools-and-debug",
+          "title": "Tools and debug",
+          "id": "pwa/tools-and-debug",
+          "position": 20
+        },
+        {
+          "url": "https://web.dev/learn/pwa/architecture",
+          "title": "Architecture",
+          "id": "pwa/architecture",
+          "position": 21
+        },
+        {
+          "url": "https://web.dev/learn/pwa/complexity",
+          "title": "Complexity management",
+          "id": "pwa/complexity",
+          "position": 22
+        },
+        {
+          "url": "https://web.dev/learn/pwa/capabilities",
+          "title": "Capabilities",
+          "id": "pwa/capabilities",
+          "position": 23
+        },
+        {
+          "url": "https://web.dev/learn/pwa/conclusion",
+          "title": "Conclusion",
+          "id": "pwa/conclusion",
+          "position": 24
+        }
+      ],
+      "special": []
+    },
+    {
+      "url": "https://web.dev/learn/testing",
+      "title": "تعلم الاختبار",
+      "slug": "testing",
+      "sourceOrder": 10,
+      "quizPages": [
+        "https://web.dev/learn/quizzes/testing"
+      ],
+      "description": "An in-depth course on software testing.",
+      "lessons": [
+        {
+          "url": "https://web.dev/learn/testing/welcome",
+          "title": "Welcome to Learn Testing!",
+          "id": "testing/welcome",
+          "position": 0
+        },
+        {
+          "url": "https://web.dev/learn/testing/get-started/what-testing-is",
+          "title": "What testing is",
+          "id": "testing/get-started/what-testing-is",
+          "position": 1
+        },
+        {
+          "url": "https://web.dev/learn/testing/get-started/where-tests-run",
+          "title": "Where tests run",
+          "id": "testing/get-started/where-tests-run",
+          "position": 2
+        },
+        {
+          "url": "https://web.dev/learn/testing/get-started/testing-environment",
+          "title": "The testing environment",
+          "id": "testing/get-started/testing-environment",
+          "position": 3
+        },
+        {
+          "url": "https://web.dev/learn/testing/get-started/test-types",
+          "title": "Types of automated testing",
+          "id": "testing/get-started/test-types",
+          "position": 4
+        },
+        {
+          "url": "https://web.dev/learn/testing/get-started/what-to-test",
+          "title": "What to test and your approach",
+          "id": "testing/get-started/what-to-test",
+          "position": 5
+        },
+        {
+          "url": "https://web.dev/learn/testing/get-started/component-testing",
+          "title": "Component testing in practice",
+          "id": "testing/get-started/component-testing",
+          "position": 6
+        },
+        {
+          "url": "https://web.dev/learn/testing/get-started/static-analysis",
+          "title": "Static analysis",
+          "id": "testing/get-started/static-analysis",
+          "position": 7
+        },
+        {
+          "url": "https://web.dev/learn/testing/assertions/tools",
+          "title": "Tools of the trade",
+          "id": "testing/assertions/tools",
+          "position": 8
+        },
+        {
+          "url": "https://web.dev/learn/testing/appendix",
+          "title": "Appendix",
+          "id": "testing/appendix",
+          "position": 9
+        },
+        {
+          "url": "https://web.dev/learn/testing/coming-soon",
+          "title": "Coming Soon",
+          "id": "testing/coming-soon",
+          "position": 10
+        }
+      ],
+      "special": [
+        "velopment journey. Skip Read article check_circle Coming Soon keyboard_arrow_down keyboard_arrow_up subject Article Optional Stay tuned for more information abou"
+      ]
+    },
+    {
+      "url": "https://web.dev/learn/ai",
+      "title": "Learn AI",
+      "slug": "ai",
+      "sourceOrder": 3,
+      "quizPages": [
+        "https://web.dev/learn/quizzes/ai"
+      ],
+      "description": "An artificial intelligence course built for web developers.",
+      "lessons": [
+        {
+          "url": "https://web.dev/learn/ai/welcome",
+          "title": "Welcome to Learn AI!",
+          "id": "ai/welcome",
+          "position": 0
+        },
+        {
+          "url": "https://web.dev/learn/ai/introduction",
+          "title": "Introducing AI for Web developers",
+          "id": "ai/introduction",
+          "position": 1
+        },
+        {
+          "url": "https://web.dev/learn/ai/use-cases",
+          "title": "Explore AI use cases",
+          "id": "ai/use-cases",
+          "position": 2
+        },
+        {
+          "url": "https://web.dev/learn/ai/predictive",
+          "title": "Predictive AI",
+          "id": "ai/predictive",
+          "position": 3
+        },
+        {
+          "url": "https://web.dev/learn/ai/generative",
+          "title": "Generative AI",
+          "id": "ai/generative",
+          "position": 4
+        },
+        {
+          "url": "https://web.dev/learn/ai/responsibility",
+          "title": "Build responsibly with AI",
+          "id": "ai/responsibility",
+          "position": 5
+        },
+        {
+          "url": "https://web.dev/learn/ai/platform",
+          "title": "Pick your platform",
+          "id": "ai/platform",
+          "position": 6
+        },
+        {
+          "url": "https://web.dev/learn/ai/client-side",
+          "title": "Choose a client-side library",
+          "id": "ai/client-side",
+          "position": 7
+        },
+        {
+          "url": "https://web.dev/learn/ai/prompt-engineering",
+          "title": "Prompt engineering",
+          "id": "ai/prompt-engineering",
+          "position": 8
+        },
+        {
+          "url": "https://web.dev/learn/ai/evaluation-driven-development",
+          "title": "Evaluation-driven development",
+          "id": "ai/evaluation-driven-development",
+          "position": 9
+        },
+        {
+          "url": "https://web.dev/learn/ai/ux-patterns",
+          "title": "UX patterns for web AI",
+          "id": "ai/ux-patterns",
+          "position": 10
+        },
+        {
+          "url": "https://web.dev/learn/ai/glossary",
+          "title": "Glossary",
+          "id": "ai/glossary",
+          "position": 11
+        }
+      ],
+      "special": []
+    }
+  ]
+}

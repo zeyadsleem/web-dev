@@ -1,0 +1,10 @@
+node_modules
+.svelte-kit
+.wrangler
+data
+reports
+worker-configuration.d.ts
+package-lock.json
+playwright-report
+test-results
+tests/fixtures

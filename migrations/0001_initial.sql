@@ -1,0 +1,17 @@
+PRAGMA foreign_keys = ON;
+CREATE TABLE users (id TEXT PRIMARY KEY, name TEXT NOT NULL, created_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP);
+CREATE TABLE sessions (token_hash TEXT PRIMARY KEY,user_id TEXT NOT NULL REFERENCES users(id),expires_at INTEGER NOT NULL);
+CREATE INDEX sessions_expiry ON sessions(expires_at);
+CREATE TABLE courses (id TEXT PRIMARY KEY,title TEXT NOT NULL,url TEXT NOT NULL UNIQUE,description TEXT NOT NULL,source_order INTEGER NOT NULL,path_order INTEGER,status TEXT NOT NULL DEFAULT 'published');
+CREATE TABLE lessons (id TEXT PRIMARY KEY,course_id TEXT NOT NULL REFERENCES courses(id),title TEXT NOT NULL,url TEXT NOT NULL UNIQUE,position INTEGER NOT NULL,description TEXT NOT NULL,status TEXT NOT NULL,hash TEXT NOT NULL,content_version INTEGER NOT NULL,imported_at TEXT NOT NULL,source_updated_at TEXT,parser_version TEXT NOT NULL,authors TEXT NOT NULL,search_text TEXT NOT NULL);
+CREATE INDEX lessons_course ON lessons(course_id,position);
+CREATE TABLE lesson_sections (id TEXT NOT NULL,lesson_id TEXT NOT NULL REFERENCES lessons(id),position INTEGER NOT NULL,title TEXT NOT NULL,blocks TEXT NOT NULL,PRIMARY KEY(lesson_id,id));
+CREATE TABLE source_versions (lesson_id TEXT NOT NULL REFERENCES lessons(id),version INTEGER NOT NULL,hash TEXT NOT NULL,snapshot TEXT NOT NULL,imported_at TEXT NOT NULL,PRIMARY KEY(lesson_id,hash));
+CREATE TABLE questions (id TEXT PRIMARY KEY,lesson_id TEXT NOT NULL REFERENCES lessons(id),section_id TEXT NOT NULL,type TEXT NOT NULL,payload TEXT NOT NULL,status TEXT NOT NULL,source_hash TEXT NOT NULL);
+CREATE INDEX questions_lesson ON questions(lesson_id,status);
+CREATE TABLE lesson_progress (user_id TEXT NOT NULL REFERENCES users(id),lesson_id TEXT NOT NULL REFERENCES lessons(id),status TEXT NOT NULL DEFAULT 'in-progress',section_id TEXT NOT NULL DEFAULT 'introduction',score REAL,attempts INTEGER NOT NULL DEFAULT 0,last_activity TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP,completed_at TEXT,PRIMARY KEY(user_id,lesson_id));
+CREATE TABLE question_attempts (id TEXT PRIMARY KEY,user_id TEXT NOT NULL REFERENCES users(id),question_id TEXT NOT NULL REFERENCES questions(id),answer TEXT NOT NULL,correct INTEGER NOT NULL CHECK(correct IN (0,1)),source_hash TEXT NOT NULL,created_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP);
+CREATE INDEX attempts_user ON question_attempts(user_id,created_at);
+CREATE TABLE quiz_attempts (id TEXT PRIMARY KEY,user_id TEXT NOT NULL REFERENCES users(id),lesson_id TEXT NOT NULL REFERENCES lessons(id),score REAL NOT NULL,created_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP);
+CREATE TABLE review_queue (user_id TEXT NOT NULL REFERENCES users(id),question_id TEXT NOT NULL REFERENCES questions(id),failures INTEGER NOT NULL DEFAULT 1,last_failed_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP,resolved_at TEXT,PRIMARY KEY(user_id,question_id));
+CREATE TABLE sync_runs (id TEXT PRIMARY KEY,created_at TEXT NOT NULL,report TEXT NOT NULL);

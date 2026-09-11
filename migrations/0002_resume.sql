@@ -1,0 +1,1 @@
+ALTER TABLE lesson_progress ADD COLUMN scroll_offset INTEGER NOT NULL DEFAULT 0;

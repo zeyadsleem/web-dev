@@ -1,0 +1,110 @@
+{
+  "generatedAt": "2026-09-10T08:54:32.065Z",
+  "source": "https://web.dev/learn/",
+  "courses": [
+    {
+      "id": "html",
+      "title": "Learn HTML",
+      "sourceOrder": 0,
+      "recommendedOrder": 0,
+      "pages": 22,
+      "published": 22
+    },
+    {
+      "id": "css",
+      "title": "Learn CSS",
+      "sourceOrder": 1,
+      "recommendedOrder": 1,
+      "pages": 40,
+      "published": 40
+    },
+    {
+      "id": "javascript",
+      "title": "Learn JavaScript",
+      "sourceOrder": 2,
+      "recommendedOrder": 3,
+      "pages": 28,
+      "published": 28
+    },
+    {
+      "id": "ai",
+      "title": "Learn AI",
+      "sourceOrder": 3,
+      "recommendedOrder": 11,
+      "pages": 12,
+      "published": 12
+    },
+    {
+      "id": "performance",
+      "title": "Learn Performance",
+      "sourceOrder": 4,
+      "recommendedOrder": 7,
+      "pages": 14,
+      "published": 14
+    },
+    {
+      "id": "privacy",
+      "title": "Learn Privacy",
+      "sourceOrder": 5,
+      "recommendedOrder": 8,
+      "pages": 6,
+      "published": 6
+    },
+    {
+      "id": "accessibility",
+      "title": "Learn Accessibility",
+      "sourceOrder": 6,
+      "recommendedOrder": 5,
+      "pages": 21,
+      "published": 21
+    },
+    {
+      "id": "images",
+      "title": "Learn Images",
+      "sourceOrder": 7,
+      "recommendedOrder": 6,
+      "pages": 17,
+      "published": 17
+    },
+    {
+      "id": "design",
+      "title": "Learn Design",
+      "sourceOrder": 8,
+      "recommendedOrder": 2,
+      "pages": 17,
+      "published": 17
+    },
+    {
+      "id": "forms",
+      "title": "Learn Forms",
+      "sourceOrder": 9,
+      "recommendedOrder": 4,
+      "pages": 24,
+      "published": 24
+    },
+    {
+      "id": "pwa",
+      "title": "Learn PWA",
+      "sourceOrder": 10,
+      "recommendedOrder": 9,
+      "pages": 25,
+      "published": 25
+    },
+    {
+      "id": "testing",
+      "title": "Learn Testing",
+      "sourceOrder": 11,
+      "recommendedOrder": 10,
+      "pages": 11,
+      "published": 10
+    }
+  ],
+  "pages": 237,
+  "published": 236,
+  "comingSoon": [
+    "https://web.dev/learn/testing/coming-soon"
+  ],
+  "questions": 814,
+  "questionsAwaitingReview": 9,
+  "coverage": "All lesson links in the discovered course indexes are normalized. External answer keys are not invented."
+}
